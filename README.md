@@ -15,7 +15,7 @@ A command-line Pomodoro Timer to help you stay productive by managing work and b
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/pomodoro-timer.git
+git clone https://github.com/0xM3rge/pomodoro-timer.git
 cd pomodoro-timer
 ```
 
