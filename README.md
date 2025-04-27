@@ -38,3 +38,25 @@ python main.py [options]
 - `-c, --cycles`: Number of work cycles (default: 4)
 - `--stats`: Show pomodoro statistics
 
+## 📝 Examples
+
+### Start with default settings (25-5-15-4):
+```bash
+python main.py
+```
+
+### Customize work and break durations:
+```bash
+python main.py -w 30 -s 10 -l 20
+```
+
+### Set number of cycles:
+```bash
+python main.py -c 2
+```
+
+### View your productivity statistics:
+```bash
+python main.py --stats
+```
+
