@@ -87,3 +87,11 @@ The timer keeps track of your productivity:
 
 Statistics are stored in `~/.pomodoro_stats.json` on your system.
 
+## 💡 Tips
+
+- Use the Pomodoro Technique to fight procrastination and enhance focus
+- During work sessions, focus on a single task and avoid distractions
+- Use short breaks to stretch, grab water, or rest your eyes
+- Use long breaks to take a walk or do a more relaxing activity
+- Adjust the work/break durations to find what works best for you
+
