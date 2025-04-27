@@ -60,3 +60,30 @@ python main.py -c 2
 python main.py --stats
 ```
 
+## 🔄 How It Works
+
+The Pomodoro Technique is a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short breaks. After four pomodoro sessions, you take a longer break.
+
+1. **Work Session**: Focus on a task for 25 minutes
+2. **Short Break**: Take a 5-minute break
+3. **Repeat**: Continue this cycle
+4. **Long Break**: After completing 4 work sessions, take a longer 15-minute break
+
+This tool follows this pattern and lets you customize the durations to fit your workflow.
+
+## 🎮 Controls
+
+- **Ctrl+C**: Pause the timer / Exit when paused
+- **Enter**: Resume when paused
+
+## 📊 Statistics
+
+The timer keeps track of your productivity:
+- Today's work time and breaks
+- Yesterday's work time
+- Total work time across all days
+- Number of completed cycles
+- Total number of days you've used the timer
+
+Statistics are stored in `~/.pomodoro_stats.json` on your system.
+
