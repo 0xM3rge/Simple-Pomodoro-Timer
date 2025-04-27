@@ -30,3 +30,11 @@ chmod +x main.py
 python main.py [options]
 ```
 
+## ⚙️ Options
+
+- `-w, --work`: Work session duration in minutes (default: 25)
+- `-s, --short-break`: Short break duration in minutes (default: 5)
+- `-l, --long-break`: Long break duration in minutes (default: 15)
+- `-c, --cycles`: Number of work cycles (default: 4)
+- `--stats`: Show pomodoro statistics
+
