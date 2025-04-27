@@ -24,3 +24,9 @@ cd pomodoro-timer
 chmod +x main.py
 ```
 
+## 🔍 Usage
+
+```bash
+python main.py [options]
+```
+
