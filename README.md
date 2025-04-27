@@ -95,3 +95,6 @@ Statistics are stored in `~/.pomodoro_stats.json` on your system.
 - Use long breaks to take a walk or do a more relaxing activity
 - Adjust the work/break durations to find what works best for you
 
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
